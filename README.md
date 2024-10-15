@@ -41,7 +41,7 @@ The Pop Plugin is a powerful and flexible extension for Rust servers that provid
 - Keine Permission benötigt
 
 ## Config:
-```{
+`{
   "Show Server Name": true,
   "Show Online Players Count": true,
   "Show Sleeping Players Count": true,
@@ -51,7 +51,7 @@ The Pop Plugin is a powerful and flexible extension for Rust servers that provid
   "Server Name Color": "#ffed00",
   "Label Color": "#00BFFF",
   "Value Color": "#ffffff"
-}```
+}`
 
 
 --- 
